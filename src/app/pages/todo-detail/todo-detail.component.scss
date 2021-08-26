@@ -1,0 +1,11 @@
+form{
+  input.ng-invalid.ng-touched{
+    border-color: red;
+  }
+  button{
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 38, 121, 1) 0%, rgba(213, 0, 255, 1) 100%);
+    &:hover,:active{
+       font-weight: bold;
+    }
+  }
+}

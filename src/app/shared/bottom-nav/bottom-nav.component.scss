@@ -1,0 +1,23 @@
+.navbar {
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 38, 121, 1) 0%, rgba(213, 0, 255, 1) 100%);
+  height: 56px;
+  .circle {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 38, 121, 1) 0%, rgba(213, 0, 255, 1) 100%);
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    font-size: 30px;
+    border: 5px solid white;
+    &:hover,:active {
+      cursor: pointer;
+      i {
+        transition: transform 0.2s linear;
+        transform: scale(1.1);
+      }
+    }
+  }
+}

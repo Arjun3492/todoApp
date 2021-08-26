@@ -1,0 +1,13 @@
+<form  #form="ngForm" (submit)="log(form.value);addTodo()" autocomplete="off">
+  <div  class="form-group" >
+    <label for="title">Title</label>
+    <input type="text" class="form-control" name="title" id="title" placeholder="Add Todo Title" required [(ngModel)]="todoTitle"  >
+  </div>
+  <br>
+  <div class="form-group">
+    <label for="todoDetail">Detail</label>
+    <textarea id="detail" class="form-control" placeholder="Add Todo Detail" name='detail' [(ngModel)]="todoDetail"></textarea>
+  </div>
+  <br>
+  <button type="submit" class="btn btn-primary w-100" [disabled]='!form.valid'>Add Todo</button>
+</form>

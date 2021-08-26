@@ -1,0 +1,14 @@
+<nav class="navbar fixed-bottom">
+<div class="bar posiiton-relative">
+  <ng-template [ngIf]="currentPath==''">
+    <div class="circle d-flex align-items-center justify-content-center" routerLink='detail' >
+      <i class="fas fa-plus text-white"></i>
+    </div>
+  </ng-template>
+  <ng-template [ngIf]="currentPath=='/detail'">
+    <div class="circle d-flex align-items-center justify-content-center" routerLink=''>
+      <i class="fas fa-home text-white"></i>
+    </div>
+  </ng-template>
+</div>
+</nav>

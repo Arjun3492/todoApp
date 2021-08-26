@@ -1,0 +1,16 @@
+<div *ngIf="Todos.length==0 else elseBlock">
+<div class="alert alert-info text-center">
+  No Todo available , Click + icon below to start adding Todos</div>
+</div>
+<ng-template #elseBlock>
+  <div class="card my-4" *ngFor='let todo of Todos,let i=index'>
+    <div class="card-body ">
+      <div class="delete" (click)="deleteTodo(i)">
+        <i class="fas fa-times"></i>
+      </div>
+      <h5 class="card-title text-center">{{todo.title}}</h5>
+      <p class="card-text text-center">{{todo.detail}}</p>
+    </div>
+  </div>
+</ng-template>
+
