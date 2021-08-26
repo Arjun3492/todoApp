@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1629992022991,
+  "timestamp": 1629996541458,
   "index": "https://arjun3492.github.io/todoApp/index.html",
   "assetGroups": [
     {
@@ -29,13 +29,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://arjun3492.github.io/todoApp/assets/icons/icon-128x128.png",
         "https://arjun3492.github.io/todoApp/assets/icons/icon-144x144.png",
-        "https://arjun3492.github.io/todoApp/assets/icons/icon-152x152.png",
         "https://arjun3492.github.io/todoApp/assets/icons/icon-192x192.png",
-        "https://arjun3492.github.io/todoApp/assets/icons/icon-384x384.png",
         "https://arjun3492.github.io/todoApp/assets/icons/icon-512x512.png",
-        "https://arjun3492.github.io/todoApp/assets/icons/icon-72x72.png",
         "https://arjun3492.github.io/todoApp/assets/icons/icon-96x96.png"
       ],
       "patterns": []
@@ -43,14 +39,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://arjun3492.github.io/todoApp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://arjun3492.github.io/todoApp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://arjun3492.github.io/todoApp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://arjun3492.github.io/todoApp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://arjun3492.github.io/todoApp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://arjun3492.github.io/todoApp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://arjun3492.github.io/todoApp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://arjun3492.github.io/todoApp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://arjun3492.github.io/todoApp/assets/icons/icon-144x144.png": "4c4b1e6f7bc7be783321dc379dfdd3b6b67b1a34",
+    "https://arjun3492.github.io/todoApp/assets/icons/icon-192x192.png": "ec1545d7f9ae8b338d88276cdfd9e46e7297d0ea",
+    "https://arjun3492.github.io/todoApp/assets/icons/icon-512x512.png": "aaa2fedeebb15fb18ca8aeded2d26621dfc49b91",
+    "https://arjun3492.github.io/todoApp/assets/icons/icon-96x96.png": "d9e63b9369f749bb114b267e800f1d0caf59414c",
     "https://arjun3492.github.io/todoApp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://arjun3492.github.io/todoApp/index.html": "577501d6e801f77c17e33c07f882be30725d8ba0",
     "https://arjun3492.github.io/todoApp/main.07048d9e72838c199304.js": "d43aece618a7cef6c3f1d1861013aa27fe095b0f",
