@@ -1,7 +1,7 @@
 # TodoApp
 
 This project is hosted on Git pages
-** https://arjun3492.github.io/todoApp **
+**https://arjun3492.github.io/todoApp**
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
