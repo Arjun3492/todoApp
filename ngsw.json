@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1629991606644,
+  "timestamp": 1629992022991,
   "index": "https://arjun3492.github.io/todoApp/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://arjun3492.github.io/todoApp/favicon.ico",
         "https://arjun3492.github.io/todoApp/index.html",
-        "https://arjun3492.github.io/todoApp/main.898307d26659c2d08dd5.js",
+        "https://arjun3492.github.io/todoApp/main.07048d9e72838c199304.js",
         "https://arjun3492.github.io/todoApp/manifest.webmanifest",
         "https://arjun3492.github.io/todoApp/polyfills.38ff0287b10ab5397a40.js",
         "https://arjun3492.github.io/todoApp/runtime.e57823a788bc4e80f891.js",
@@ -52,8 +52,8 @@
     "https://arjun3492.github.io/todoApp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://arjun3492.github.io/todoApp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://arjun3492.github.io/todoApp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://arjun3492.github.io/todoApp/index.html": "1721adb487a2efa57dfccdcdfe66fe51005a8912",
-    "https://arjun3492.github.io/todoApp/main.898307d26659c2d08dd5.js": "82b4f6228039c196623164a10f0c09b521b18f5c",
+    "https://arjun3492.github.io/todoApp/index.html": "577501d6e801f77c17e33c07f882be30725d8ba0",
+    "https://arjun3492.github.io/todoApp/main.07048d9e72838c199304.js": "d43aece618a7cef6c3f1d1861013aa27fe095b0f",
     "https://arjun3492.github.io/todoApp/manifest.webmanifest": "748ec84db21cc116f4b55d10765aa608b601923a",
     "https://arjun3492.github.io/todoApp/polyfills.38ff0287b10ab5397a40.js": "43f362a38b64f29c5d208949d5fb26833303529a",
     "https://arjun3492.github.io/todoApp/runtime.e57823a788bc4e80f891.js": "9e03474b84bbbcdbfa77dd5c54501aa516168276",
